@@ -1,4 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Jamie! 
+  
+<h2>👨‍💻Cybersecurity Projects:</h2>
+
+- <b>Python Algorithm Practice (AlgoExpert)</b>
+  - [Praciting Algos in Python](https://github.com/JamieD7/Python-Algorithm.git)
+- <b>SQL Queries through Linux CL</b>
+  - [SQL with Filters](https://github.com/JamieD7/SQL-Queries.git) 
+- <b>Logging</b>
+  - [Incident Handlers Journal](https://github.com/JamieD7/Incident-Handlers-Journal.git)
+
+<h2>🥇 Certifications</h2>
+
+- [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_professional-certificates_country-US&campaignid=20086358053&adgroupid=147458924814&device=c&keyword=google%20cybersecurity%20certificate&matchtype=b&network=g&devicemodel=&adposition=&creativeid=695198799116&hide_mobile_promo&gad_source=1&gbraid=0AAAAADdKX6ahJiyF5zod8tTQ8JgRW5Jre&gclid=Cj0KCQiAlsy5BhDeARIsABRc6Zt_wB6x3ggDQ4YDgzQjDYqcw0NdKHvoog3POEGkHtOyZ6ZOd9yTB9saAhjhEALw_wcB)
+ 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JamieDeMasi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jamie-demasi-4bb616248/
+
 
 <!--
 **JamieD7/JamieD7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
