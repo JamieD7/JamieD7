@@ -3,7 +3,7 @@
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Wazuh SIEM
-  -[Wazuh SIEM for file integrity monitoring](https://github.com/JamieD7/Wazuh-SIEM-Lab)
+  - [Wazuh SIEM for file integrity monitoring](https://github.com/JamieD7/Wazuh-SIEM-Lab)
 - <b>Python Algorithm Practice (AlgoExpert)</b>
   - [Praciting Algos in Python](https://github.com/JamieD7/Python-Algorithm.git)
 - <b>SQL Queries through Linux CL</b>
