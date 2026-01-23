@@ -8,7 +8,7 @@ I'm a cybersecurity student passionate about threat detection, SIEM systems, and
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-ff0000?style=flat&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1DA1F2?style=flat&logo=wireshark&logoColor=white)
-
+![Wazuh](https://img.shields.io/badge/Wazuh-004080?style=flat&logo=wazuh&logoColor=white)
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
