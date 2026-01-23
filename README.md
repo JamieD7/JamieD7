@@ -17,8 +17,11 @@ I'm a cybersecurity student passionate about threat detection, SIEM systems, and
 
 <h2>🥇 Certifications</h2>
 
-- [Google Cybersecurity Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_google-cybersecurity_google_FTCOF_professional-certificates_country-US&campaignid=20086358053&adgroupid=147458924814&device=c&keyword=google%20cybersecurity%20certificate&matchtype=b&network=g&devicemodel=&adposition=&creativeid=695198799116&hide_mobile_promo&gad_source=1&gbraid=0AAAAADdKX6ahJiyF5zod8tTQ8JgRW5Jre&gclid=Cj0KCQiAlsy5BhDeARIsABRc6Zt_wB6x3ggDQ4YDgzQjDYqcw0NdKHvoog3POEGkHtOyZ6ZOd9yTB9saAhjhEALw_wcB)
-- CompTIA Security+ 701
+## 🎓 Certifications
+
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat&logo=google&logoColor=white)]
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-1074BC?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+
  
 <h2> 🤳 Connect with me:</h2>
 
