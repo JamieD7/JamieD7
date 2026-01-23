@@ -12,8 +12,8 @@ I'm a cybersecurity student passionate about threat detection, SIEM systems, and
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-- [Wazuh SIEM for file integrity monitoring](https://github.com/JamieD7/Wazuh-SIEM-Lab)
-  -   Home lab for file integrity monitoring and security event analysis using Wazuh. Includes architecture diagrams and setup scripts for hands-on learning.
+[Wazuh SIEM for file integrity monitoring](https://github.com/JamieD7/Wazuh-SIEM-Lab)
+- Home lab for file integrity monitoring and security event analysis using Wazuh. Includes architecture diagrams and setup scripts for hands-on learning.
 
 ## 🎓 Certifications
 
