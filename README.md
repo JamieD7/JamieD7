@@ -1,6 +1,7 @@
-<h1>Hi, I'm Jamie!</h1>
+<h1>Hi, I'm Jamie! 👋</h1>
 
-<b> I am a cybersecurity graduate focused on SIEM, threat detection and hands-on labs! 
+I'm a cybersecurity student passionate about threat detection, SIEM systems, and building hands-on labs to explore real-world security challenges. I love turning complex security concepts into practical projects that demonstrate skills in monitoring, logging, and incident response.
+
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
