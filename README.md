@@ -15,11 +15,9 @@ I'm a cybersecurity student passionate about threat detection, SIEM systems, and
 - <b>Wazuh SIEM
   - [Wazuh SIEM for file integrity monitoring](https://github.com/JamieD7/Wazuh-SIEM-Lab)
 
-<h2>🥇 Certifications</h2>
-
 ## 🎓 Certifications
 
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat&logo=google&logoColor=white)]
+![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat&logo=google&logoColor=white)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-1074BC?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 
  
