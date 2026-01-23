@@ -2,6 +2,13 @@
 
 I'm a cybersecurity student passionate about threat detection, SIEM systems, and building hands-on labs to explore real-world security challenges. I love turning complex security concepts into practical projects that demonstrate skills in monitoring, logging, and incident response.
 
+## 🛠 Skills & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-ff0000?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1DA1F2?style=flat&logo=wireshark&logoColor=white)
+
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
