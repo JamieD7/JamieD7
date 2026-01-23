@@ -4,12 +4,6 @@
 
 - <b>Wazuh SIEM
   - [Wazuh SIEM for file integrity monitoring](https://github.com/JamieD7/Wazuh-SIEM-Lab)
-- <b>Python Algorithm Practice (AlgoExpert)</b>
-  - [Praciting Algos in Python](https://github.com/JamieD7/Python-Algorithm.git)
-- <b>SQL Queries through Linux CL</b>
-  - [SQL with Filters](https://github.com/JamieD7/SQL-Queries.git) 
-- <b>Logging</b>
-  - [Incident Handlers Journal](https://github.com/JamieD7/Incident-Handlers-Journal.git)
 
 <h2>🥇 Certifications</h2>
 
