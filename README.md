@@ -18,7 +18,8 @@ I'm a cybersecurity student passionate about threat detection, SIEM systems, and
 ## 🎓 Certifications
 
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=flat&logo=google&logoColor=white)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-1074BC?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-1074BC?style=flat&logo=comptia&logoColor=white)](https://cp.certmetrics.com/comptia/en/public/verify/credential/fe6bdbee382e4f90ac622a0903beb4b8)
+
 
  
 <h2> 🤳 Connect with me:</h2>
