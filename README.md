@@ -1,7 +1,7 @@
-<h1>Hi, I'm Jamie! 
+<h1>Hi, I'm Jamie!</h1>
 
+<b> I am a cybersecurity graduate focused on SIEM, threat detection and hands-on labs! 
 
-  
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
 - <b>Wazuh SIEM
