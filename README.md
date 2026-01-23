@@ -22,9 +22,9 @@ I'm a cybersecurity student passionate about threat detection, SIEM systems, and
  
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JamieDeMasi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-demasi-4bb616248/)
 
-[linkedin]: https://www.linkedin.com/in/jamie-demasi-4bb616248/
+
 
 
 <!--
